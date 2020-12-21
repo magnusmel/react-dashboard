@@ -100,7 +100,7 @@
     "lint-staged": "^4.0.0",
     "markdown-it": "^8.4.0",
     "mkdirp": "^0.5.1",
-    "node-sass": "4.5.0",
+    "node-sass": "4.13.1",
     "null-loader": "^0.1.1",
     "pixrem": "^4.0.1",
     "pleeease-filters": "^4.0.0",
